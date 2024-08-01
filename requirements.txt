@@ -33,7 +33,7 @@ VaderSentiment==3.3.2
 wget==3.2
 wikipedia
 youtube_search
-yt_dlp
+yt-dlp==2024.7.9
 carbon
 lexica-api
 pykeyboard
