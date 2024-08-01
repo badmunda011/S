@@ -2,7 +2,7 @@ import os
 from os import getenv
 
 
-API_ID = int(getenv("API_ID", ""))
+API_ID = 25742938
 API_HASH = getenv("API_HASH", "")
 BOT_USERNAME = getenv("BOT_USERNAME", "YumikooBot")
 COMMAND_HANDLER = ["/", "!"]
